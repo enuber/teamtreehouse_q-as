@@ -6,7 +6,7 @@ my memory on various concepts and projects but, also to trouble shoot code. On o
 can't quite figure out or just banter about. I have pretty much just answered those questions and moved on but, decided to start keeping 
 a repository of those answers
 
-1) Shuffle It Up - The idea of this file was to have a group of users or people, and a group of products. The products would be 
+1) Shuffle It Up (use the console to see the results no HTML) - The idea of this file was to have a group of users or people, and a group of products. The products would be 
 randomly given to the people. However, when the products are randomly given out, each item must appear at least once in a users
 list. There were suggestions of just going through the product list and randomly selecting a user to give the item to but, the problem
 is then you could end up with uneven lists and, as each user was to end up with a set of 10 random items, I felt this was a less random
