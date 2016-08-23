@@ -2,7 +2,7 @@
 small challenges from questions asked on teamtreehouse forum
 
 I try to spend some time on a daily basis answering questions on the team treehouse forum. I find that it's a good not only to refresh
-my memory on various concepts and projects but, also to trouble shoot code. On occasion there are ideas that someone has that they
+my memory on various concepts and projects but, also to trouble shoot code which is an important skill to have. On occasion there are ideas that someone has that they
 can't quite figure out or just banter about. I have pretty much just answered those questions and moved on but, decided to start keeping 
 a repository of those answers
 
